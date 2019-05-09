@@ -4,7 +4,7 @@ class App extends Component {
     render (){
         return (
             <div>
-                일정관리
+                일정관리222
             </div>
         );
     }
